@@ -1,0 +1,21 @@
+.formBox {
+  background-color: white;
+  width: 100%;
+  padding: 0px 20px;
+}
+.center {
+  text-align: center;
+}
+.eachField3 {
+  padding: 20px 0px;
+}
+.bottomButtons {
+  padding-bottom: 5px;
+  position: absolute;
+  bottom: 10px;
+  padding-bottom: 5px;
+  width: 80%;
+}
+.nextBtn {
+  float: right;
+}

@@ -1,0 +1,15 @@
+.formBox {
+    background-color: white;
+    width: 100%;  
+    padding: 0px 20px;
+  }
+  .center {
+    text-align: center;
+  }
+  .eachField {
+    padding:20px 0px;  
+  }
+  .bottomButtons{
+    margin-bottom: 0 auto;
+    padding-bottom: 5px;
+  }
